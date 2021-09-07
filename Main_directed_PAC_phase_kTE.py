@@ -7,8 +7,8 @@ Created on Mon Sep  6 21:57:40 2021
 Directed PAC through kernel based Phase Transfer Entropy
 
 This script reproduces the results shown in Figure 4 of the paper "Estimating 
-directed phase-amplitude interactions through kernel-based phase transfer 
-entropy". 
+directed phase-amplitude interactions from EEG data through kernel-based 
+phase transfer entropy". 
 
 Ivan De La Pava Panche, Automatics Research Group
 Universidad Tecnologica de Pereira, Pereira - Colombia
